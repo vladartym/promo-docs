@@ -12,14 +12,32 @@
     "light": "#52525B",
     "dark": "#FAFAFA"
   },
+  "icons": {
+    "library": "lucide"
+  },
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Agencies",
+        "icon": "building-2",
         "groups": [
           {
+            "group": "Getting Started",
+            "pages": ["agencies/introduction"]
+          },
+          {
             "group": "Activations",
-            "pages": ["guides/create-activation"]
+            "pages": ["agencies/create-activation"]
+          }
+        ]
+      },
+      {
+        "tab": "Brand Ambassadors",
+        "icon": "user",
+        "groups": [
+          {
+            "group": "Getting Started",
+            "pages": ["ambassadors/introduction"]
           }
         ]
       }
