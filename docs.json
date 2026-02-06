@@ -32,6 +32,10 @@
           {
             "group": "Roster",
             "pages": ["agencies/adding-to-roster"]
+          },
+          {
+            "group": "Messages",
+            "pages": ["agencies/messages"]
           }
         ]
       },
