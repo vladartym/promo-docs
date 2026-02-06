@@ -36,6 +36,14 @@
           {
             "group": "Messages",
             "pages": ["agencies/messages"]
+          },
+          {
+            "group": "Tasks",
+            "pages": [
+              "agencies/tasks/tasks-overview",
+              "agencies/tasks/create-task",
+              "agencies/tasks/manage-results"
+            ]
           }
         ]
       },
