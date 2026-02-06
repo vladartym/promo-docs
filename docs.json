@@ -28,6 +28,10 @@
           {
             "group": "Activations",
             "pages": ["agencies/create-activation"]
+          },
+          {
+            "group": "Roster",
+            "pages": ["agencies/adding-to-roster"]
           }
         ]
       },
