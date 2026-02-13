@@ -23,7 +23,7 @@
         "groups": [
           {
             "group": "Getting Started",
-            "pages": ["agencies/introduction"]
+            "pages": ["agencies/introduction", "agencies/dashboard"]
           },
           {
             "group": "Activations",
